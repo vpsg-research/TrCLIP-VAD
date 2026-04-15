@@ -39,3 +39,5 @@ Traing and infer for UCF-Crime dataset
 python ucf_train.py
 python ucf_test.py
 ```
+## References
+[LaCLIP](https://github.com/LijieFan/LaCLIP)
