@@ -49,6 +49,7 @@ We referenced the repos below for the code.
 ## Citation
 If you find this repo useful for your research, please consider citing our paper:
 
+```bibtex
 @article{SHEN2026108951,
 	title = {TrCLIP-VAD : Weak supervised video anomaly detection by improving CLIP training with text rewriting},
 	journal = {Neural Networks},
