@@ -41,11 +41,14 @@ python ucf_test.py
 ```
 ## References
 We referenced the repos below for the code.
+
 [LaCLIP](https://github.com/LijieFan/LaCLIP)
+
 [VadCLIP](https://github.com/nwpu-zxr/VadCLIP/tree/main)
 
 ## Citation
 If you find this repo useful for your research, please consider citing our paper:
+
 @article{SHEN2026108951,
 	title = {TrCLIP-VAD : Weak supervised video anomaly detection by improving CLIP training with text rewriting},
 	journal = {Neural Networks},
