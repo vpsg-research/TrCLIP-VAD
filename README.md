@@ -1,4 +1,4 @@
-# TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting</strong>
+# TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting
 
 
 ## :loudspeaker:News
@@ -16,6 +16,10 @@
 
 ![alt text](https://github.com/ssjlyh/TrCLIP-VAD/blob/main/data/framework.png)
 The overview of the proposed TrCLIP-VAD. It consists of several components, i.e. visual branch, text branch, C-branch (coarse-grained branch) and F-branch (fine-grained branch).
+
+## 📖 Introduction
+
+This is the official repository for the NN 2026 paper " [TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120) "
 
 ## Training
 ### Setup
