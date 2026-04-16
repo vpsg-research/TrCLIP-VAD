@@ -33,10 +33,10 @@ This is the official repository for the NN 2026 paper " [TrCLIP-VAD: Weak superv
 <p align="center">
   <img src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/framework.png" style="width:90%;">
 	
-  >Fig. 1: The overview of the proposed TrCLIP-VAD. It consists of several components, i.e. visual branch, text branch, C-branch (coarse-grained branch) and F-branch (fine-grained branch).</em>
+  >Fig. 2: The overview of the proposed TrCLIP-VAD. It consists of several components, i.e. visual branch, text branch, C-branch (coarse-grained branch) and F-branch (fine-grained branch).</em>
 </p>
 
-## Training
+## 🚀 Training
 ### Setup
 We extract visual features and caption features for UCF-Crime and XD-Violence datasets, and release these features and pretrained models as follows:
 
@@ -67,6 +67,11 @@ python ucf_test.py
 ```
 ## 🎨 Visualization Results
 
+<p align="center">
+  <img src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/Abnormal_curve.png" style="width:90%;">
+	
+  >Fig. 3: Qualitative results of coarse-grained WSVAD. The orange curve represents the anomaly score and the pink area indicates the temporal location of anomalies. We define an anomaly score exceeding 0.5 as an anomaly event. </em>
+</p>
 
 ## 📻 References
 We referenced the repos below for the code.
