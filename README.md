@@ -18,6 +18,8 @@
 - [📖 Introduction]
 - [🧩 Overview]
 - [🚀 Training]
+  - [Setup]
+  - [Train and Test]
 - [🎨 Visualization Results]
 - [📻 References]
 - [✒️ Citation]
