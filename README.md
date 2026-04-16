@@ -21,8 +21,14 @@
 ## 📖 Introduction
 
 This is the official repository for the NN 2026 paper " [TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120) "
-  
+
 ![alt text](https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/motive.png)
+<p align="center">
+  <img src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/motive.png" style="width:90%;">
+</p>
+<p align="center" style="font-size: 0.9em; color: #666; text-align: justify;">
+  <em>Fig. 1: Illustration of an interruption-based defense and its failure to retrain. The lower path demonstrates an effective interruption process, where protected face data leads to a distorted output from the deepfake model. The upper path illustrates a critical flaw in this interruption-only defense. Attackers can bypass the defense by retraining their model on the protected images. This adaptation makes the model immune to the interruption, ultimately causing the defense to fail.</em>
+</p>
 
 ## 🧩 Overview
 
