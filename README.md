@@ -7,11 +7,11 @@
 
 ## :sparkles: Highlight
 
-- We propose a novel TrCLIP-VAD framework, which enhances textual feature diversity through text rewriting strategy. As far as we know, TrCLIP-VAD is the first work to introduce an image-text dual feature enhancement approach to WSVAD.
+- 🧠 We propose a novel TrCLIP-VAD framework, which enhances textual feature diversity through text rewriting strategy. As far as we know, TrCLIP-VAD is the first work to introduce an image-text dual feature enhancement approach to WSVAD.
 
-- We design an LGM-Mamba module that innovatively integrates the abilities of local perception, global modeling and multi-scale analysis, enabling efficient and comprehensive temporal feature learning for VAD.
+- ⚡ We design an LGM-Mamba module that innovatively integrates the abilities of local perception, global modeling and multi-scale analysis, enabling efficient and comprehensive temporal feature learning for VAD.
 
-- TrCLIP-VAD achieves state-of-the-art (SOTA) performance on two widely-used datasets. Specifically, it achieves 86.38\% AP scores and 88.59\% AUC scores on the XD-Violence and UCF-Crime dataset, outperforming all compared methods in the experiments.
+- 🚀 TrCLIP-VAD achieves state-of-the-art (SOTA) performance on two widely-used datasets. Specifically, it achieves 86.38\% AP scores and 88.59\% AUC scores on the XD-Violence and UCF-Crime dataset, outperforming all compared methods in the experiments.
 
 
 ![alt text](https://github.com/ssjlyh/TrCLIP-VAD/blob/main/data/framework.png)
