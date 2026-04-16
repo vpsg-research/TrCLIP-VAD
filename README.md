@@ -1,6 +1,8 @@
 # TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting
 
-:loudspeaker:News
+## :loudspeaker:News
+- [2026-04] Our paper has been accepted for publication in the journal **Neural Networks** (Elsevier)! 🎉
+- [2026-04] The code are being organized and will be released shortly. Please star this repo for updates!
 
 
 ![alt text](https://github.com/ssjlyh/TrCLIP-VAD/blob/main/data/framework.png)
