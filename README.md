@@ -15,8 +15,13 @@
 
 ## 📆Table of Contents
 
-- [📖Introduction]
-
+- [📖 Introduction]
+- [🧩 Overview]
+- [🚀 Training]
+- [🎨 Visualization Results]
+- [📻 References]
+- [✒️ Citation]
+- [📜 License]
 
 ## 📖 Introduction
 
@@ -99,7 +104,10 @@ If you find this repo useful for your research, please consider citing our paper
 	url = {https://www.sciencedirect.com/science/article/pii/S0893608026004120},
 	author = {Shengjie Shen and Ziteng Guo and Yahui Li and Liejun Wang and Zhiqing Guo},
 }
-## 📜License
+```
+
+
+## 📜 License
 
 This project is licensed under the [Apache 2.0 License](https://github.com/vpsg-research/TrCLIP-VAD/blob/main/LICENSE).
 
