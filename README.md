@@ -33,13 +33,6 @@ This is the official repository for the NN 2026 paper " [TrCLIP-VAD: Weak superv
 
 <p align="center">
   <img src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/framework.png" style="width:90%;">
-
-  style="font-size: 0.9em; color: #666; text-align: justify;">
-  <em>Fig. 1: The overview of the proposed TrCLIP-VAD. It consists of several components, i.e. visual branch, text branch, C-branch (coarse-grained branch) and F-branch (fine-grained branch).</em>
-</p>
-
-<p align="center">
-  <img src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/framework.png" style="width:90%;">
 </p>
 <p style="font-size: 0.9em; color: #666; text-align: justify;">
   <em>Fig. 1: The overview of the proposed TrCLIP-VAD. It consists of several components, i.e. visual branch, text branch, C-branch (coarse-grained branch) and F-branch (fine-grained branch).</em>
