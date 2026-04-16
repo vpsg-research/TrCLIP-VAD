@@ -13,13 +13,15 @@
 
 - 🚀 TrCLIP-VAD achieves state-of-the-art (SOTA) performance on two widely-used datasets. Specifically, it achieves 86.38\% AP scores and 88.59\% AUC scores on the XD-Violence and UCF-Crime dataset, outperforming all compared methods in the experiments.
 
+## 📖 Introduction
+
+This is the official repository for the NN 2026 paper " [TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120) "
+
+
 
 ![alt text](https://github.com/ssjlyh/TrCLIP-VAD/blob/main/data/framework.png)
 The overview of the proposed TrCLIP-VAD. It consists of several components, i.e. visual branch, text branch, C-branch (coarse-grained branch) and F-branch (fine-grained branch).
 
-## 📖 Introduction
-
-This is the official repository for the NN 2026 paper " [TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120) "
 
 ## Training
 ### Setup
