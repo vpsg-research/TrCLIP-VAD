@@ -114,7 +114,7 @@ def train(model, normal_loader, anomaly_loader, testloader, args, label_map, dev
                 
         scheduler.step()
         
-        torch.save(model.state_dict(), '/root/autodl-tmp/code/ssj80/model/ucf/model_cur.pth')
+        torch.save(model.state_dict(), '/root/autodl-tmp/TrCLIP-VAD/model/ucf/model_cur.pth')
         checkpoint = torch.load(args.checkpoint_path, weights_only=False)
         # model.load_state_dict(checkpoint['model_state_dict'])
         model.load_state_dict(checkpoint['model_state_dict'], strict=False)
