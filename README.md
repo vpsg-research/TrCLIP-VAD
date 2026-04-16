@@ -67,7 +67,7 @@ python ucf_test.py
 ```
 ## 🎨 Visualization Results
 
-<div align="center"> <img width="700" alt="Visualization of interruption effect" src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/Abnormal_curve.png"> </div>
+<div align="center"> <img width="900" alt="Visualization of interruption effect" src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/Abnormal_curve.png"> </div>
 
 > **Fig. 3: Qualitative results of coarse-grained WSVAD. The orange curve represents the anomaly score and the pink area indicates the temporal location of anomalies. We define an anomaly score exceeding 0.5 as an anomaly event.**
 ---
