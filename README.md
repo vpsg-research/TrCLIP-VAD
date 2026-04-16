@@ -72,11 +72,10 @@ python ucf_test.py
 > **Fig. 3: Qualitative results of coarse-grained WSVAD. The orange curve represents the anomaly score and the pink area indicates the temporal location of anomalies. We define an anomaly score exceeding 0.5 as an anomaly event.**
 ---
 
-<p align="center">
-  <img src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/Abnormal_curve.png" style="width:90%;">
-	
-  >Fig. 3: Qualitative results of coarse-grained WSVAD. The orange curve represents the anomaly score and the pink area indicates the temporal location of anomalies. We define an anomaly score exceeding 0.5 as an anomaly event. </em>
-</p>
+<div align="center"> <img width="900" alt="Visualization of interruption effect" src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/tsne.png"> </div>
+
+> **Fig. 3: t-SNE visualizations for XD-Violence dataset. Left: Raw CLIP features; Middle: VadCLIP featires; Right: TrCLIP-VAD features.**
+---
 
 ## 📻 References
 We referenced the repos below for the code.
