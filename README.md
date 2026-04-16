@@ -24,9 +24,9 @@ This is the official repository for the NN 2026 paper " [TrCLIP-VAD: Weak superv
 
 <p align="center">
   <img src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/motive.png" style="width:90%;">
-
-  >Fig. 1: Comparisons with the existing approaches. Unlike other methods, after obtaining the caption features using the captioning network, we use LLaMA to rewrite the captions into two versions and randomly select one to fuse with visual features for anomaly detection.</em>
 </p>
+  >Fig. 1: Comparisons with the existing approaches. Unlike other methods, after obtaining the caption features using the captioning network, we use LLaMA to rewrite the captions into two versions and randomly select one to fuse with visual features for anomaly detection.</em>
+
 
 <p align="center">
   <img src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/motive.png" style="width:90%;">
