@@ -22,7 +22,7 @@
 
 This is the official repository for the NN 2026 paper " [TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120) "
   
-![alt text](https://github.com/vpsg-research/TrCLIP-VAD/tree/main/data/motive.pdf)
+![alt text](https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/motive.pdf)
 
 ## 🧩 Overview
 
