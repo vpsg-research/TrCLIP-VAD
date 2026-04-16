@@ -16,7 +16,7 @@ parser.add_argument('--classes-num', default=14, type=int)
 
 parser.add_argument('--max-epoch', default=10, type=int)
 parser.add_argument('--model-path', default='/root/autodl-tmp/model/model_ucf.pth')
-parser.add_argument('--use-checkpoint', default=True, type=bool)
+parser.add_argument('--use-checkpoint', default=False, type=bool)
 parser.add_argument('--checkpoint-path', default='/root/autodl-tmp/model/checkpoint_ucf.pth')
 parser.add_argument('--batch-size', default=64, type=int)
 parser.add_argument('--visual-train-list', default='/root/autodl-tmp/code/list/ucf_CLIP_rgb.csv')
