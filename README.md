@@ -65,6 +65,8 @@ Traing and infer for UCF-Crime dataset
 python ucf_train.py
 python ucf_test.py
 ```
+## 🎨 Visualization Results
+
 ## References
 We referenced the repos below for the code.
 
@@ -72,7 +74,7 @@ We referenced the repos below for the code.
 
 [VadCLIP](https://github.com/nwpu-zxr/VadCLIP/tree/main)
 
-## Citation
+## ✒️ Citation
 If you find this repo useful for your research, please consider citing our paper:
 
 ```bibtex
