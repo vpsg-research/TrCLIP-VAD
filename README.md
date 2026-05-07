@@ -31,7 +31,7 @@
 This is the official repository for the NN 2026 paper " [TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120) "
 
 <p align="center">
-  <img src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/motive.png" style="width:90%;">
+  <img src="data/motive.png" style="width:90%;">
 	
   >Fig. 1: Comparisons with the existing approaches. Unlike other methods, after obtaining the caption features using the captioning network, we use LLaMA to rewrite the captions into two versions and randomly select one to fuse with visual features for anomaly detection.</em>
 </p>
@@ -75,12 +75,12 @@ python ucf_test.py
 ```
 ## 🎨 Visualization Results
 
-<div align="center"> <img width="900" alt="Visualization of interruption effect" src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/Abnormal_curve.png"> </div>
+<div align="center"> <img width="900" alt="Visualization of interruption effect" src="data/Abnormal_curve.png"> </div>
 
 > **Fig. 3: Qualitative results of coarse-grained WSVAD. The orange curve represents the anomaly score and the pink area indicates the temporal location of anomalies. We define an anomaly score exceeding 0.5 as an anomaly event.**
 ---
 
-<div align="center"> <img width="900" alt="Visualization of interruption effect" src="https://github.com/vpsg-research/TrCLIP-VAD/blob/main/data/tsne.png"> </div>
+<div align="center"> <img width="900" alt="Visualization of interruption effect" src="data/tsne.png"> </div>
 
 > **Fig. 3: t-SNE visualizations for XD-Violence dataset. Left: Raw CLIP features; Middle: VadCLIP featires; Right: TrCLIP-VAD features.**
 ---
@@ -112,7 +112,7 @@ If you find this repo useful for your research, please consider citing our paper
 
 ## 📜 License
 
-This project is licensed under the [Apache 2.0 License](https://github.com/vpsg-research/TrCLIP-VAD/blob/main/LICENSE).
+This project is licensed under the [Apache 2.0 License](LICENSE).
 
 
 ---
