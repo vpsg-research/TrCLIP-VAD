@@ -31,7 +31,7 @@
 This is the official repository for the NN 2026 paper " [TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120) "
 
 <div align="center"> 
-  <img width="800" alt="Comparison of proactive forensic paradigms" src="data/motive.png"> 
+  <img width="900" src="data/motive.png"> 
 </div>
 
 
