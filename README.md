@@ -39,9 +39,10 @@ This is the official repository for the NN 2026 paper " [TrCLIP-VAD: Weak superv
 
 ## 🧩 Overview
 
-<p align="center">
-  <img src="data/framework.png" style="width:90%;">
-	
+<div align="center"> 
+  <img width="900" src="data/framework.png"> 
+</div>
+
   >Fig. 2: The overview of the proposed TrCLIP-VAD. It consists of several components, i.e. visual branch, text branch, C-branch (coarse-grained branch) and F-branch (fine-grained branch).</em>
 </p>
 
@@ -76,12 +77,15 @@ python ucf_test.py
 ```
 ## 🎨 Visualization Results
 
-<div align="center"> <img width="900" alt="Visualization of interruption effect" src="data/Abnormal_curve.png"> </div>
+<div align="center">
+	<img width="900" src="data/Abnormal_curve.png">
+</div>
 
 > **Fig. 3: Qualitative results of coarse-grained WSVAD. The orange curve represents the anomaly score and the pink area indicates the temporal location of anomalies. We define an anomaly score exceeding 0.5 as an anomaly event.**
 ---
-
-<div align="center"> <img width="900" alt="Visualization of interruption effect" src="data/tsne.png"> </div>
+<div align="center">
+	<img width="900" src="data/tsne.png">
+</div>
 
 > **Fig. 3: t-SNE visualizations for XD-Violence dataset. Left: Raw CLIP features; Middle: VadCLIP featires; Right: TrCLIP-VAD features.**
 ---
